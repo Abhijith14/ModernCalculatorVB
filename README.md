@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Abhijith14/Portfolio-v1/master/readme_assets/logo.png" width="400" />
-</div>
 <h1 align="center">
   Modern Calculator
 </h1>
