@@ -32,28 +32,15 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [Ab
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
 _**Note : This project is created in Microsoft Visual Studio Community 2019 Version 16.8.4 with a display scale of 175%. So if your's isnt 175%, change your default size to 175% or convert back this project to your recommended size.**_
 
+### Installing Setup
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 ```
-Give the example
+Open the "Setup Files for Me" folder.
+Run the setup.exe application
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
