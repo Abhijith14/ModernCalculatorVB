@@ -1,87 +1,31 @@
-# Project Title
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/Abhijith14/Portfolio-v1/master/readme_assets/logo.png" width="400" />
+</div>
+<h1 align="center">
+  Modern Calculator
+</h1>
+<p align="center">
+  A Modern Calculator for performing simple arithmetic operations using VB.NET
+</p>
 
-One Paragraph of project description goes here
+![demo](https://raw.githubusercontent.com/Abhijith14/ModernCalculatorVB/master/readme_assets/index.png)
 
-## Getting Started
+## 🚨 Forking this repo (please read!)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+_**yes, with attribution**_.
 
-### Prerequisites
+I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+### TL;DR
 
-### Installing
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio-v1](https://github.com/Abhijith14/Portfolio-v1). Thanks!
 
-A step by step series of examples that tell you how to get a development env running
+## 🎨 Color Reference
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+| Color          | Hex                                                                | RGB		           |
+| -------------- | ------------------------------------------------------------------ |	------------------ |
+| Deep Blue      | ![#3e4352](https://via.placeholder.com/10/3e4352?text=+) `#3e4352` |	rgb(62, 67, 82)	   |
+| Light Grey     | ![#737373](https://via.placeholder.com/10/737373?text=+) `#737373` |	rgb(115, 115, 115) |
+| Lightest Grey  | ![#eef1fc](https://via.placeholder.com/10/eef1fc?text=+) `#eef1fc` |	rgb(238, 241, 252) |
+| Bold Red       | ![#ff1616](https://via.placeholder.com/10/ff1616?text=+) `#ff1616` |	rgb(255, 22, 22)   |
