@@ -8,7 +8,7 @@
   A Modern Calculator for performing simple arithmetic operations using VB.NET
 </p>
 
-![demo](https://raw.githubusercontent.com/Abhijith14/ModernCalculatorVB/master/readme_assets/index.png)
+![demo](https://raw.githubusercontent.com/Abhijith14/ModernCalculatorVB/master/readme_assets/project.png)
 
 ## 🚨 Forking this repo (please read!)
 
