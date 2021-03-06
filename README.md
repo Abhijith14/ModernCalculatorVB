@@ -42,7 +42,7 @@ Open the "Setup Files for Me" folder.
 Run the setup.exe application
 ```
 
-## Running the tests
+## Cloning to Visual Studio
 
 Explain how to run the automated tests for this system
 
