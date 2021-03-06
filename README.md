@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Note : This project is created in Microsoft Visual Studio Community 2019 Version 16.8.4 with a display scale of 175%. So if your's isnt 175%, change your default size to 175% or convert back this project to your recommended size.
 
 ```
 Give examples
