@@ -7,6 +7,8 @@
 
 ![demo](https://raw.githubusercontent.com/Abhijith14/ModernCalculatorVB/master/readme_assets/project.png)
 
+<br>
+
 ## 🚨 Forking this repo (please read!)
 
 _**yes, with attribution**_.
@@ -20,13 +22,16 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [Ab
 
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                | RGB		           |
+| Color          | Hex                                                                | RGB		             |
 | -------------- | ------------------------------------------------------------------ |	------------------ |
-| Black          | ![#151314](https://via.placeholder.com/10/151314?text=+) `#151314` |	rgb(21,19,20)	   |
+| Black          | ![#151314](https://via.placeholder.com/10/151314?text=+) `#151314` |	rgb(21,19,20)	     |
 | White          | ![#f2f3f7](https://via.placeholder.com/10/f2f3f7?text=+) `#f2f3f7` |	rgb(242,243,247)   |
-| Green			 | ![#56a858](https://via.placeholder.com/10/56a858?text=+) `#56a858` |	rgb(86,168,88)     |
+| Green			     | ![#56a858](https://via.placeholder.com/10/56a858?text=+) `#56a858` |	rgb(86,168,88)     |
 | Red            | ![#f5413b](https://via.placeholder.com/10/f5413b?text=+) `#f5413b` |	rgb(245,65,59)     |
 | Grey           | ![#6c6e79](https://via.placeholder.com/10/6c6e79?text=+) `#6c6e79` |	rgb(108,110,121)   |
+
+  <br>
+  <br>
 
 ## 📕 Getting Started
 
@@ -42,56 +47,24 @@ Open the "Setup Files for Me" folder.
 Run the setup.exe application
 ```
 
-## Cloning to Visual Studio
+<br>
 
-Explain how to run the automated tests for this system
+## 🔧 Cloning to Visual Studio
 
-### Break down into end to end tests
+Visual Studio solution file can be found [here.](https://github.com/Abhijith14/ModernCalculatorVB/tree/master/Project/Modern%20Calculator)
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+### Deployment
 
-### And coding style tests
+After clonning [this repo](https://github.com/Abhijith14/ModernCalculatorVB.git), run Form1. Find the code in Form1.vb and Design in Form1.vb (Design).
 
-Explain what these tests test and why
+### Built With
 
-```
-Give an example
-```
+* [Canva](https://www.canva.com/) - Designing
+* [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/) - Creating Project
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
+### Authors
 
-## Built With
+* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
