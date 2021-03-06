@@ -28,7 +28,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [Ab
 | Red            | ![#f5413b](https://via.placeholder.com/10/f5413b?text=+) `#f5413b` |	rgb(245,65,59)     |
 | Grey           | ![#6c6e79](https://via.placeholder.com/10/6c6e79?text=+) `#6c6e79` |	rgb(108,110,121)   |
 
-## Getting Started
+## 📕 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
