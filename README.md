@@ -11,18 +11,19 @@
 
 _**yes, with attribution**_.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and designing this project, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio-v1](https://github.com/Abhijith14/Portfolio-v1). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/ModernCalculatorVB](https://github.com/Abhijith14/ModernCalculatorVB). Thanks!
 
 ## 🎨 Color Reference
 
 | Color          | Hex                                                                | RGB		           |
 | -------------- | ------------------------------------------------------------------ |	------------------ |
-| Deep Blue      | ![#3e4352](https://via.placeholder.com/10/3e4352?text=+) `#3e4352` |	rgb(62, 67, 82)	   |
-| Light Grey     | ![#737373](https://via.placeholder.com/10/737373?text=+) `#737373` |	rgb(115, 115, 115) |
-| Lightest Grey  | ![#eef1fc](https://via.placeholder.com/10/eef1fc?text=+) `#eef1fc` |	rgb(238, 241, 252) |
-| Bold Red       | ![#ff1616](https://via.placeholder.com/10/ff1616?text=+) `#ff1616` |	rgb(255, 22, 22)   |
+| Black          | ![#151314](https://via.placeholder.com/10/151314?text=+) `#151314` |	rgb(21,19,20)	   |
+| White          | ![#f2f3f7](https://via.placeholder.com/10/f2f3f7?text=+) `#f2f3f7` |	rgb(242,243,247)   |
+| Green			 | ![#56a858](https://via.placeholder.com/10/56a858?text=+) `#56a858` |	rgb(86,168,88)     |
+| Red            | ![#f5413b](https://via.placeholder.com/10/f5413b?text=+) `#f5413b` |	rgb(245,65,59)     |
+| Grey           | ![#6c6e79](https://via.placeholder.com/10/6c6e79?text=+) `#6c6e79` |	rgb(108,110,121)   |
